@@ -5,7 +5,7 @@ Markdown is a markup language, which means that it has some syntax to change the
 "=====" underneath text to make a heading
 =======================================
 
-* asterisks "*" around text to make it italicized"
+*asterisks around text to make it italicized"
 
 - dashes "-" infront of text to make list items
 
