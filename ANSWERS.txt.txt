@@ -1,0 +1,7 @@
+cd\
+cd\Users\Duncan\COMP 1800\COMP 1800 Code\Feb04 Lab
+git init
+git add .
+git commit - "first commit"
+git remote add origin https://github.com/dkeen10/A01185666gitlab.git
+git push origin master
