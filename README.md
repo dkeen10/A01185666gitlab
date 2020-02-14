@@ -7,7 +7,7 @@ Markdown is a markup language, which means that it has some syntax to change the
 
 - dashes "-" infront of text to make list items.
 
-*asterisks around text to make it italicized"
+*asterisks around text to make it italicized*
 
 and more.
 
